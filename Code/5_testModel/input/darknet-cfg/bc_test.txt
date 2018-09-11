@@ -1,0 +1,1 @@
+../../../4_trainModel/input/darknet-cfg/bc_test.txt

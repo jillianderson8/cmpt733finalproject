@@ -1,0 +1,2224 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SELECT" id="SELECT">
+	<SimpleField name="osm_id" type="string"></SimpleField>
+	<SimpleField name="bridge" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="oneway" type="string"></SimpleField>
+	<SimpleField name="smoothness" type="string"></SimpleField>
+	<SimpleField name="surface" type="string"></SimpleField>
+	<SimpleField name="tunnel" type="string"></SimpleField>
+	<SimpleField name="width" type="string"></SimpleField>
+	<SimpleField name="z_index" type="string"></SimpleField>
+</Schema>
+<Folder><name>SELECT</name>
+  <Placemark>
+	<name>Hala Hihifo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">41980161</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="z_index">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.339824446359,-21.104952367215 -175.3398235,-21.1049178 -175.3398188,-21.1048445 -175.3398053,-21.1046368 -175.3397978,-21.1045646 -175.339776,-21.1043561 -175.339768,-21.104306 -175.3397564,-21.1042342 -175.3397214,-21.103941 -175.3397154,-21.1038961 -175.3396651,-21.1035112 -175.3396577,-21.1034614 -175.3396442,-21.1033853 -175.3396268,-21.103287 -175.3395877,-21.1030623 -175.3395592,-21.102898 -175.3395548,-21.1028728 -175.3395306,-21.1027333 -175.3394113,-21.1021326 -175.3393717,-21.1018988 -175.339338,-21.1016779 -175.3393221,-21.1015735 -175.3392926,-21.1012682 -175.3393043,-21.1010574 -175.3393126,-21.1009074 -175.3393205,-21.1006938 -175.3393387,-21.1004127 -175.3393556,-21.1001522 -175.3393576,-21.10004 -175.3393578,-21.1000243 -175.3393612,-21.0998348 -175.3393664,-21.0995429 -175.3393891,-21.0989285 -175.3393915,-21.0988756 -175.3394186,-21.0982729 -175.33942,-21.0981403 -175.3394441,-21.0975097 -175.3394599,-21.0972328 -175.3394627,-21.097183 -175.3394781,-21.0969118 -175.3394817,-21.0968734 -175.3395436,-21.0962809 -175.3395503,-21.0962196 -175.3396259,-21.0956034 -175.3396399,-21.0954852 -175.3397068,-21.0950205 -175.3397955,-21.0944041</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984864</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3396577,-21.1034614 -175.3395358,-21.1034839 -175.3391762,-21.103579 -175.3390168,-21.1036365 -175.3387452,-21.1037128 -175.3386352,-21.1037429 -175.3385134,-21.1037656 -175.3375761,-21.104035 -175.3375048,-21.1040555 -175.3373815,-21.1040909</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984865</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3385134,-21.1037656 -175.3382634,-21.1026527 -175.3382529,-21.1026056 -175.3381486,-21.102084 -175.3380421,-21.1015395 -175.3380193,-21.1014227 -175.3379783,-21.1012132 -175.3378991,-21.1008341 -175.3377247,-21.1000064 -175.3377101,-21.099937 -175.3376537,-21.0996192 -175.337637,-21.0993458 -175.3376871,-21.0985463 -175.3377025,-21.0985142 -175.337729,-21.0984965 -175.3377669,-21.0984742 -175.3378087,-21.0984624 -175.33942,-21.0981403</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984866</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3393891,-21.0989285 -175.3388811,-21.0990533 -175.3385025,-21.0991454 -175.337637,-21.0993458</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984867</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3393126,-21.1009074 -175.3389316,-21.1010053 -175.3384803,-21.1011104 -175.3381826,-21.101178 -175.3379783,-21.1012132</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Hala 'Ata</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984868</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3381486,-21.102084 -175.3385438,-21.1020242 -175.3386618,-21.1020059 -175.3389457,-21.1019618 -175.3393717,-21.1018988</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Hala Totonu</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984869</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3396651,-21.1035112 -175.3398013,-21.1034733 -175.3401078,-21.1033695 -175.3401598,-21.1033591 -175.3403795,-21.1032926 -175.34058,-21.1032213 -175.3407781,-21.1031322 -175.3408206,-21.1031038 -175.3408499,-21.1030777 -175.3409485,-21.1030208 -175.3412205,-21.1028357 -175.3414261,-21.1027002 -175.341598,-21.1026101 -175.3417654,-21.1025242 -175.3419096,-21.1024698 -175.3421925,-21.1024257 -175.3423308,-21.1023887 -175.3426171,-21.1023161 -175.3429337,-21.1022128 -175.3432139,-21.1021716 -175.3433642,-21.1021978 -175.3435224,-21.1022066 -175.3438684,-21.1022041 -175.343997,-21.1021556 -175.3443038,-21.1021373 -175.3443364,-21.1021278 -175.3448085,-21.1020327 -175.3453128,-21.1019126 -175.345408,-21.1018972 -175.3457151,-21.1018475</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984870</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3393915,-21.0988756 -175.3401106,-21.0987133 -175.340352,-21.099333</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984871</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3393126,-21.1009074 -175.3398241,-21.1007914 -175.3401247,-21.100719 -175.3401701,-21.1007113 -175.3402011,-21.1007152 -175.3402278,-21.1007257 -175.3402548,-21.1007497 -175.34032,-21.1008994 -175.3403627,-21.1009976 -175.3403855,-21.1010499 -175.3404927,-21.1013018 -175.3405037,-21.1013222 -175.3405198,-21.1013347 -175.3405304,-21.1013484 -175.3405352,-21.1013666 -175.3405336,-21.101385 -175.3405376,-21.1014044 -175.3405961,-21.1015141 -175.3406067,-21.1015421 -175.3406066,-21.1015718 -175.3405958,-21.1015997 -175.3405756,-21.1016226 -175.3405483,-21.1016378 -175.3402342,-21.1017091 -175.3396077,-21.1018517 -175.3393717,-21.1018988</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984872</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.341441,-21.1009316 -175.3409875,-21.1011473 -175.3405304,-21.1013484</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984873</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3394186,-21.0982729 -175.3403327,-21.0980599 -175.3409864,-21.0979075 -175.3410481,-21.09788 -175.34107,-21.0978573 -175.3410695,-21.097815 -175.3410347,-21.0976998 -175.3409358,-21.0974861 -175.3408639,-21.0973463 -175.3408164,-21.097214 -175.340779,-21.0971101 -175.3406421,-21.0967292</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984874</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3395503,-21.0962196 -175.3394935,-21.096217 -175.3394191,-21.0962201 -175.3393292,-21.0962276 -175.3390496,-21.0962714 -175.3385609,-21.0963332</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Hala Hinave</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984875</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3394817,-21.0968734 -175.3393889,-21.0968651 -175.3385401,-21.0970263 -175.3382178,-21.097087</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984876</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3394441,-21.0975097 -175.3388987,-21.0976202 -175.338198,-21.0977527 -175.3379631,-21.0977876</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984891</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3394267,-21.0907642 -175.3390543,-21.0908604 -175.3388554,-21.0909244 -175.3382854,-21.0911133</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984892</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3395485,-21.0914274 -175.3391321,-21.0915323 -175.3390509,-21.0915459 -175.338597,-21.0915831</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984893</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3396399,-21.0919701 -175.3399781,-21.0919093 -175.3402238,-21.0918643 -175.3405249,-21.0917124 -175.3405977,-21.0916756</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984894</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3389929,-21.0883955 -175.3387253,-21.088444 -175.3387054,-21.0884476 -175.3381141,-21.0885548 -175.3377986,-21.088612</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">168984895</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3381794,-21.0903163 -175.3383752,-21.0902662 -175.3384486,-21.090249 -175.3385622,-21.0902224 -175.3386743,-21.0901961 -175.3392926,-21.0900661</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">226126446</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3391831,-21.0938173 -175.339238,-21.0939297 -175.3392622,-21.094006 -175.339281,-21.0940836 -175.3393064,-21.0941524 -175.3393386,-21.0942075 -175.339399,-21.09426 -175.3394969,-21.0942926 -175.3395806,-21.0943198 -175.3397396,-21.0943714 -175.3397955,-21.0944041</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078744</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3381486,-21.102084 -175.3375075,-21.1021841</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078745</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3395306,-21.1027333 -175.3395063,-21.1027532 -175.3394721,-21.102772 -175.3390512,-21.1028535 -175.3390083,-21.1028861 -175.3389862,-21.1029367 -175.3389767,-21.1029893 -175.3389902,-21.1030799 -175.3390221,-21.1031686 -175.3390565,-21.1032513 -175.3391323,-21.1035122 -175.3391489,-21.1035514 -175.3391762,-21.103579</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078746</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3419096,-21.1024698 -175.3417448,-21.1019127 -175.3415671,-21.1013045 -175.341441,-21.1009316 -175.341296,-21.1004252 -175.3412604,-21.1003009 -175.3411701,-21.1000088 -175.3410656,-21.0996711 -175.3410105,-21.0994765 -175.3409535,-21.0993116 -175.3409153,-21.0992013</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078747</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3393556,-21.1001522 -175.3392796,-21.100152 -175.3392233,-21.100157 -175.3390927,-21.1001766 -175.3387875,-21.1002167 -175.3386978,-21.1002285 -175.3386171,-21.1002421 -175.3385927,-21.1002457 -175.3385681,-21.100243 -175.3385454,-21.100234</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078748</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3372112,-21.100963 -175.3374854,-21.1009116 -175.3378991,-21.1008341</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078749</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3408348,-21.0985356 -175.3404262,-21.0986359 -175.3401106,-21.0987133</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078750</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3386392,-21.0937646 -175.3386434,-21.0937393 -175.3386554,-21.0937164 -175.3386741,-21.0936978 -175.3386979,-21.0936851 -175.3387246,-21.0936796 -175.3392215,-21.0936165 -175.3397767,-21.0935458</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078751</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3389899,-21.0939097 -175.3391522,-21.0938546 -175.3391831,-21.0938173 -175.3391873,-21.0936746 -175.3392215,-21.0936165</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078752</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3397204,-21.092745 -175.3395904,-21.0927759 -175.3392733,-21.0928456 -175.3390564,-21.0928986 -175.3387811,-21.0929479 -175.3387138,-21.0929579 -175.3386835,-21.0929519 -175.3386636,-21.0929352 -175.3386126,-21.0926849</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078753</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.340002,-21.0924575 -175.3400157,-21.0924624 -175.3400303,-21.0924636 -175.3400497,-21.0924598 -175.340073,-21.0924509 -175.340097,-21.0924342 -175.340111,-21.0924256 -175.340121,-21.0924131 -175.3401259,-21.0923982 -175.3401275,-21.0923713 -175.3401212,-21.0922925</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078754</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3383954,-21.0921819 -175.3390901,-21.0920568 -175.3391254,-21.0920522 -175.3391497,-21.0920699 -175.3391725,-21.0921557 -175.3391971,-21.0921736 -175.3392342,-21.0921719 -175.3396562,-21.0920672</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078755</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3384573,-21.0893124 -175.339147,-21.0892389</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078756</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3383752,-21.0902662 -175.3383201,-21.0901209 -175.338308,-21.0900515 -175.3383107,-21.089997 -175.338306,-21.089947 -175.3382364,-21.0896387 -175.3382349,-21.0896029 -175.3382456,-21.0895741 -175.3382805,-21.0895566 -175.3383296,-21.0895455 -175.3384182,-21.089523 -175.3384555,-21.0895003 -175.3384691,-21.0894579 -175.3384573,-21.0893124 -175.3384148,-21.089147 -175.3383898,-21.0891099 -175.3383458,-21.0891006 -175.3381527,-21.0891426</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317078757</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3379917,-21.0880264 -175.3385496,-21.0879082 -175.3387043,-21.0879005 -175.3388364,-21.0878636 -175.3388901,-21.0878629</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317312060</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3389768,-21.088284 -175.3391106,-21.0882578 -175.3393748,-21.0881973 -175.3395838,-21.0881554 -175.3396925,-21.0881345 -175.3397895,-21.0880918 -175.3398977,-21.088026 -175.3400579,-21.087919 -175.3401931,-21.0878447 -175.3403434,-21.08775 -175.3405388,-21.087624 -175.3407925,-21.0874701 -175.3410579,-21.0873161 -175.3411712,-21.087247 -175.3412679,-21.0871911 -175.341702271315,-21.0869691676046</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">317312062</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3405977,-21.0916756 -175.3417996,-21.0911682 -175.3419418,-21.0910941 -175.3420116,-21.0910577 -175.3422373,-21.0909401 -175.3425252,-21.0907901 -175.3431218,-21.0904602 -175.343157,-21.0904407 -175.3438474,-21.0900912 -175.3443463,-21.0898944 -175.3444757,-21.0898625 -175.3445917,-21.0898412 -175.3448537,-21.0898139 -175.3452934,-21.0897509 -175.3455036,-21.0896955 -175.3456043,-21.0896631 -175.3456963,-21.0896242 -175.3460324,-21.0894819 -175.3463747,-21.0893277 -175.3469172,-21.0890832 -175.3471598,-21.0889939 -175.3475867,-21.0887581 -175.3479013,-21.0885065</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">332808596</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3369385,-21.1042181 -175.3373815,-21.1040909</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">332808597</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3370204,-21.1022578 -175.3372062,-21.1022504 -175.3373879,-21.102228 -175.3375075,-21.1021841</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">332813630</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3431302,-21.0983227 -175.3431564,-21.0984211 -175.343384,-21.0992752 -175.3434244,-21.0994267</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">332813632</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.34909775807,-21.0967185999754 -175.3487774,-21.0968288 -175.3484609,-21.0969467 -175.3482973,-21.0970039 -175.3480613,-21.0970518 -175.3473062,-21.0973558 -175.3472885,-21.0973629 -175.3468226,-21.0974324 -175.3459251,-21.0976464 -175.3456897,-21.0976955 -175.3452569,-21.0978936 -175.3451416,-21.0979411 -175.3448199,-21.0980249 -175.3441537,-21.0981643 -175.3431302,-21.0983227 -175.3430741,-21.0983322 -175.3422339,-21.0985504 -175.3417737,-21.0988206 -175.3417454,-21.0988384 -175.3411271,-21.0991087 -175.3409368,-21.0991919 -175.3409153,-21.0992013 -175.3406043,-21.099274 -175.340352,-21.099333 -175.3393664,-21.0995429</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545228295</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3391854,-21.0894643 -175.339116,-21.0894709 -175.3390396,-21.0894953 -175.339035,-21.0895168 -175.3390416,-21.0896104</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545228297</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3391765,-21.0894082 -175.3390919,-21.0894102 -175.3390087,-21.0894183</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545228314</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3390273,-21.0888705 -175.3389045,-21.0888754</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545228315</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.339067,-21.0887716 -175.3390273,-21.0888705 -175.3390362,-21.0889297 -175.3391047,-21.088983</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545228318</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3387253,-21.088444 -175.3387302,-21.0884686 -175.3387398,-21.0885174</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545228320</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3387054,-21.0884476 -175.3386835,-21.088426 -175.3386614,-21.088381 -175.3386151,-21.0881952</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545228339</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3374302,-21.0876146 -175.3374785,-21.0878999 -175.3375241,-21.0881113 -175.3379917,-21.0880264</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545228341</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3388265,-21.0875083 -175.3386312,-21.0875301 -175.3383046,-21.0875946</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545228343</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3386104,-21.0877741 -175.3388686,-21.0877429</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545235115</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3384486,-21.090249 -175.3384803,-21.0904343</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545235116</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3386743,-21.0901961 -175.3386835,-21.090236 -175.3386848,-21.0902441 -175.3386832,-21.0902521 -175.3386788,-21.0902592 -175.3386722,-21.0902645 -175.3386641,-21.0902676 -175.338605,-21.0902767</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545235117</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3385622,-21.0902224 -175.3385447,-21.0901841 -175.338532,-21.0901403 -175.3385279,-21.0901134</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545235118</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3392221,-21.0896702 -175.3391442,-21.0896773 -175.3390241,-21.089708 -175.3388981,-21.0897374 -175.3386788,-21.0897943 -175.3386649,-21.0898031 -175.3386549,-21.0898156 -175.33865,-21.0898306 -175.3386506,-21.0898462 -175.338662,-21.0899007</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545235125</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3383274,-21.0916193 -175.338597,-21.0915831</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545235147</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3376314,-21.0912508 -175.3380699,-21.0911745 -175.3382854,-21.0911133</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545245864</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">ground</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3386741,-21.0936978 -175.3386244,-21.0936811 -175.3385715,-21.0936788 -175.3385226,-21.0936814</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545245865</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3386399,-21.0939635 -175.3386392,-21.0937646</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545245875</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3386835,-21.0929519 -175.3386574,-21.09297 -175.3383871,-21.0930219</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545245876</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3387811,-21.0929479 -175.3387707,-21.0929663 -175.3387632,-21.0929825 -175.33876,-21.0929999 -175.3387613,-21.0930176 -175.338778,-21.0931095 -175.3387805,-21.0931335 -175.3387769,-21.0931573 -175.3387673,-21.0931796</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545245883</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3388525,-21.0925577 -175.3387371,-21.0926147 -175.3386674,-21.0926409 -175.3386489,-21.0926455 -175.3386327,-21.092655 -175.3386202,-21.0926685 -175.3386126,-21.0926849</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545252067</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">ground</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3409493,-21.089195 -175.3410331,-21.0893704 -175.3411563,-21.0896966 -175.3412225,-21.0898627 -175.3414432,-21.0897952 -175.3415321,-21.0897811 -175.3416895,-21.0898966 -175.3417721,-21.090167 -175.3418827,-21.0905012 -175.3419461,-21.0907579 -175.3420116,-21.0910577</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545256889</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3405249,-21.0917124 -175.3405463,-21.0917913 -175.3406512,-21.0918899</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545256903</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3405977,-21.0916756 -175.3405678,-21.0916255 -175.3405014,-21.0915498 -175.3404403,-21.0915023 -175.3403659,-21.0914504 -175.3403357,-21.091451 -175.3403126,-21.0914583 -175.3402934,-21.0914725 -175.3402805,-21.0914919 -175.3402754,-21.0915142 -175.3402756,-21.0915364 -175.3402692,-21.0915578 -175.3402566,-21.0915767 -175.3402311,-21.0915949 -175.3400823,-21.0916493 -175.3400695,-21.0916668 -175.3400581,-21.0914566</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545256911</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3399781,-21.0919093 -175.3399924,-21.0918489 -175.3400055,-21.0918345 -175.3400229,-21.091825 -175.3400427,-21.0918214 -175.3401205,-21.0918164 -175.3401789,-21.0918027 -175.3402352,-21.0917826 -175.3402607,-21.0917736 -175.3402827,-21.0917585 -175.3402997,-21.0917385 -175.3403103,-21.091715</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545256912</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3396612,-21.0916487 -175.3396813,-21.0916212 -175.339692,-21.091588 -175.339696,-21.0915111</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545256913</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3395867,-21.0916675 -175.3396612,-21.0916487 -175.3398261,-21.0916362</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545256914</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3395988,-21.0917432 -175.3395136,-21.09175 -175.3394339,-21.0917591 -175.3393561,-21.0917776</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545256931</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3391497,-21.0920699 -175.3391583,-21.0920391 -175.3391408,-21.0919284</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545265827</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3469172,-21.0890832 -175.3466968,-21.0885613 -175.3475893,-21.0880644</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545345671</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3490776,-21.1043967 -175.34868,-21.1044241 -175.3482403,-21.1044527 -175.348036,-21.1044773 -175.347811,-21.1045208 -175.3475575,-21.1045839 -175.3474539,-21.104617 -175.3473756,-21.1046439 -175.3472919,-21.1046857</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545345672</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.347294,-21.1039404 -175.3474969,-21.1038882 -175.3475055,-21.1038893 -175.3475922,-21.1039007 -175.3477547,-21.1038777 -175.3479229,-21.1038275 -175.3481751,-21.1038097</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545345673</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3475055,-21.1038893 -175.3474672,-21.1037269 -175.3474027,-21.103558 -175.3473297,-21.103308 -175.3472928,-21.1032047</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545346593</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3472928,-21.1032047 -175.3472301,-21.1031088 -175.3469793,-21.1031345 -175.3467407,-21.1031559 -175.3464945,-21.1032073 -175.3460892,-21.1032929 -175.3458506,-21.1033186 -175.345753,-21.1033257 -175.3457102,-21.1031188 -175.3456209,-21.1027199 -175.3455661,-21.102432</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545346594</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.345753,-21.1033257 -175.3451802,-21.10344 -175.3451091,-21.1033951 -175.3450511,-21.1033767 -175.3448694,-21.1034104 -175.3446877,-21.1034492</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545346595</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3446877,-21.1034492 -175.3445472,-21.1029112</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545346596</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.347294,-21.1039404 -175.3471776,-21.1039677 -175.3470413,-21.104013 -175.3470116,-21.1040847 -175.3469489,-21.1042249 -175.3468659,-21.1042907 -175.3468894,-21.1043535 -175.3464633,-21.1044631 -175.3461234,-21.104545 -175.3458352,-21.1045976 -175.3455986,-21.1046297 -175.3453026,-21.1047014 -175.3449877,-21.1047877 -175.3449341,-21.1048127 -175.3449354,-21.1049366</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545346597</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3472919,-21.1046857 -175.3472302,-21.1047276 -175.347202,-21.1047602 -175.347198,-21.104824 -175.3472275,-21.1049341</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545348108</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3445472,-21.1029112 -175.3444507,-21.1025702 -175.3444064,-21.1024432</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545349570</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3457151,-21.1018475 -175.3465427,-21.1017105 -175.346621,-21.1017044 -175.3473097,-21.1016696 -175.3478244,-21.1015874 -175.3478957,-21.1015739 -175.3480827,-21.1015384 -175.3481966,-21.1015496 -175.3486037,-21.1017498 -175.348931,-21.101913 -175.3490354,-21.1020148 -175.34909775807,-21.1020436986353</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545349572</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3480827,-21.1015384 -175.3481217,-21.1014093 -175.3481217,-21.1012949 -175.3481597,-21.1011759 -175.3482381,-21.1011782 -175.3484113,-21.1011636 -175.3490588,-21.1011609 -175.34909775807,-21.1011615482722</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545349573</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3478957,-21.1015739 -175.3479484,-21.101398 -175.3479709,-21.1012461 -175.3479576,-21.1011094 -175.3479327,-21.1010275 -175.3478806,-21.1008994 -175.347798,-21.1007094 -175.3477528,-21.1005723 -175.3477257,-21.100447</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545350933</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3455661,-21.102432 -175.345489,-21.1021658 -175.345408,-21.1018972</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545350934</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.346621,-21.1017044 -175.3466587,-21.1014573</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545353443</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3444064,-21.1024432 -175.3443629,-21.1022524 -175.3443038,-21.1021373</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545355337</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3468226,-21.0974324 -175.346787,-21.0973319</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545356262</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3380737,-21.0884479 -175.3380898,-21.0884992 -175.3381141,-21.0885548</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545431044</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3392139,-21.0925315 -175.339234,-21.0926334 -175.3392733,-21.0928456</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545454334</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3484609,-21.0969467 -175.348323,-21.0965963 -175.3481486,-21.0961226 -175.3480061,-21.0957152 -175.3479289,-21.0955231</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545456129</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-175.3441143,-21.0980079 -175.343965,-21.0976408 -175.343914,-21.097532 -175.3438313,-21.0973113 -175.3437609,-21.0970773 -175.3437166,-21.096762 -175.3437072,-21.0966774 -175.3436821,-21.0964511 -175.3436735,-21.0963397 -175.3436614,-21.0962439</coordinates></LineString><LineString><coordinates>-175.3436614,-21.0962439 -175.3436521,-21.0961706 -175.3436418,-21.0960956 -175.3436235,-21.095963 -175.3436116,-21.095897 -175.343591,-21.0957836 -175.3435609,-21.0956549 -175.3435462,-21.0955917 -175.3435025,-21.0954197 -175.3434333,-21.0951979 -175.3434011,-21.0950945 -175.3433637,-21.0950023 -175.3432997,-21.0948443 -175.3432515,-21.0947971 -175.3431741,-21.0947903 -175.3429224,-21.0948675 -175.3426207,-21.0949415 -175.3423224,-21.0950331 -175.3420811,-21.0950975 -175.3421268,-21.0952247 -175.3422213,-21.0954543 -175.3422616,-21.095562 -175.3422741,-21.0955973 -175.3423085,-21.095694 -175.3423528,-21.0958122 -175.3423677,-21.0958543 -175.3423984,-21.0959411 -175.342458,-21.096081 -175.3424688,-21.0961062 -175.3424782,-21.0961463 -175.3425088,-21.0962199 -175.3425593,-21.0962833 -175.3425704,-21.0962983 -175.3425762,-21.0963157 -175.3425761,-21.096334 -175.3425805,-21.0963641 -175.3425826,-21.0963788 -175.3425889,-21.0963925 -175.3425987,-21.0964041 -175.3426175,-21.0964156 -175.3426503,-21.0964238 -175.342684,-21.0964272 -175.3426978,-21.0964267 -175.3427112,-21.0964299 -175.3427231,-21.0964366 -175.3427324,-21.0964462 -175.3427383,-21.0964578 -175.3427591,-21.0964866 -175.3427994,-21.0965163 -175.3428195,-21.0965281 -175.3428424,-21.0965338 -175.3428662,-21.0965329 -175.3428957,-21.0965226 -175.3429321,-21.0965052 -175.3429629,-21.0964828 -175.3429891,-21.096456 -175.3430099,-21.0964316 -175.3430491,-21.096414 -175.3430629,-21.0964083 -175.3430779,-21.0964068 -175.3430927,-21.0964098 -175.3431057,-21.0964168 -175.3431159,-21.0964272 -175.3431455,-21.0964294 -175.3431742,-21.0964222 -175.3434069,-21.0963302 -175.3436614,-21.0962439</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545456130</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3434686,-21.094733 -175.3434578,-21.0947511 -175.3434494,-21.0948545 -175.3435144,-21.0949432 -175.343557,-21.0949852 -175.3435866,-21.095121 -175.3436452,-21.0952419 -175.3436972,-21.0953978 -175.3437534,-21.0955652 -175.3437784,-21.0956644 -175.3438052,-21.09582 -175.3438126,-21.0959816 -175.343808,-21.0961198 -175.3438117,-21.0962313 -175.3436614,-21.0962439</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545457053</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3485687,-21.0870635 -175.3487429,-21.0873197 -175.3488615,-21.087559 -175.3488935,-21.0877115 -175.3489256,-21.0877823 -175.3487813,-21.0879149 -175.3486371,-21.0880236 -175.3483461,-21.0882395 -175.3480266,-21.088474 -175.3480043,-21.0884472 -175.3479013,-21.0885065</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545458986</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3480125,-21.090855 -175.3479323,-21.090745 -175.3478308,-21.0905884 -175.3477229,-21.0904259 -175.3476902,-21.0903197 -175.3476694,-21.0902723 -175.3476207,-21.090232 -175.3475493,-21.0901788 -175.3475367,-21.0901611</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545458989</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3479624,-21.0908833 -175.3481119,-21.0910697 -175.3482367,-21.0912936 -175.348444,-21.0916052 -175.3486282,-21.0917879 -175.3487013,-21.0918946 -175.3487472,-21.0919616 -175.3488815,-21.0921691 -175.3490642,-21.0924865</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545458990</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3487013,-21.0918946 -175.3487957,-21.0918216 -175.3489059,-21.0917466 -175.3489829,-21.0916984 -175.3490736,-21.091662</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545458996</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3488334,-21.0903917 -175.3489466,-21.0905169 -175.3489691,-21.0905918 -175.3490677,-21.0907018</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545460206</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3385401,-21.0970263 -175.3384892,-21.096969 -175.3384802,-21.0968959 -175.3385004,-21.0968032 -175.3385153,-21.0967545</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545465604</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.346787,-21.0973319 -175.346723,-21.0971672 -175.3466142,-21.0968702 -175.3464675,-21.0965598 -175.3463559,-21.096376 -175.3461831,-21.0960229 -175.3461677,-21.0959547 -175.3461601,-21.0959208 -175.3461678,-21.0958718 -175.346217,-21.0958197 -175.3466381,-21.0956616 -175.3468657,-21.0955812 -175.3469441,-21.0955706 -175.3470454,-21.0955724 -175.3471473,-21.0955718 -175.3472318,-21.0955355 -175.3472725,-21.0955104 -175.3472868,-21.0954955 -175.3473939,-21.095455 -175.3475468,-21.0953974 -175.3475736,-21.0953636 -175.3476942,-21.0952966</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545465618</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.344705,-21.0941368 -175.3447573,-21.0942912 -175.3448225,-21.094426 -175.3449797,-21.0947528 -175.3451008,-21.095023 -175.3451597,-21.0951644 -175.3452885,-21.0955872 -175.3453602,-21.0957496 -175.3453873,-21.0958043 -175.3453853,-21.095841 -175.3453598,-21.0958745 -175.3452816,-21.0959139 -175.3451101,-21.0959887 -175.3449385,-21.0960385 -175.3447966,-21.0960889 -175.3446928,-21.096132 -175.34462,-21.0961831 -175.3445672,-21.0962395 -175.3445451,-21.096263 -175.3444804,-21.0963121 -175.3441907,-21.0964247 -175.3439292,-21.0965022 -175.343838,-21.096531 -175.3437763,-21.0965611 -175.3437401,-21.0965998 -175.3437072,-21.0966774</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545479658</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3462669,-21.0918669 -175.3466276,-21.0924358 -175.3468601,-21.0928147 -175.3469665,-21.0929981 -175.3472557,-21.0935555 -175.3473764,-21.0937569 -175.3473266,-21.0937951 -175.3472733,-21.0938346</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545546420</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3396077,-21.1018517 -175.3396236,-21.1019074 -175.3396299,-21.1019253 -175.3396301,-21.1019441 -175.3396242,-21.101962 -175.3396128,-21.1019775 -175.3395969,-21.1019891 -175.339578,-21.1019956 -175.3395339,-21.1020056 -175.3394959,-21.1020253 -175.3394558,-21.1020519 -175.3394266,-21.1020889 -175.3394113,-21.1021326</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545585495</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3454133,-21.0950772 -175.345198,-21.0946012 -175.3451781,-21.0945454 -175.3451476,-21.0944807 -175.3451217,-21.0944424 -175.3451018,-21.0943778 -175.3449832,-21.0941324 -175.3449527,-21.0940842 -175.3449092,-21.0940623 -175.3448611,-21.0940634 -175.344705,-21.0941368</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545585702</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3471804,-21.0942459 -175.3474556,-21.0947377 -175.3475328,-21.0948976 -175.347616,-21.095073 -175.3476516,-21.0951381 -175.3476911,-21.0952157 -175.3476942,-21.0952966</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545630153</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3406931,-21.093 -175.3406315,-21.0930607 -175.3405899,-21.0931321 -175.3405503,-21.0932434 -175.3405382,-21.0932766 -175.340516,-21.0933015 -175.340487,-21.0933195 -175.3404537,-21.093329 -175.3404189,-21.0933291 -175.3401889,-21.0933592 -175.3399576,-21.0933948 -175.3397677,-21.093418</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545630157</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3397117,-21.0926344 -175.3396558,-21.0926516 -175.3395773,-21.0926728</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545630158</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3392984,-21.0925252 -175.3392139,-21.0925315 -175.3391254,-21.0925321 -175.3390959,-21.0925227</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545630166</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3396804,-21.0922966 -175.3396203,-21.0923112 -175.3395572,-21.0923331 -175.3395181,-21.0923412 -175.3394781,-21.0923444</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545630167</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3399616,-21.0927626 -175.3399049,-21.0927632 -175.3398486,-21.0927586 -175.3398094,-21.0927539 -175.3397649,-21.0927597 -175.3397224,-21.0927731</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545630178</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3396989,-21.0924722 -175.340002,-21.0924575</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545630183</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3392579,-21.0942151 -175.3392126,-21.0942169 -175.3391194,-21.0942263 -175.3390811,-21.0942263 -175.3390436,-21.0942194 -175.3389973,-21.0942125 -175.3389544,-21.0942144 -175.3389041,-21.0942188</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545630184</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3395806,-21.0943198 -175.3395344,-21.0943332 -175.3393433,-21.0943301 -175.3393131,-21.0943237 -175.3392871,-21.0943081 -175.3392683,-21.0942851 -175.3392568,-21.0942444 -175.3392579,-21.0942151 -175.3392597,-21.0941628 -175.339281,-21.0940836</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545630185</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3397486,-21.0931455 -175.3398174,-21.0931164 -175.3398912,-21.0930426 -175.3399176,-21.0930174 -175.33995,-21.0929995 -175.3399864,-21.09299 -175.3400682,-21.092965 -175.3401158,-21.0929369 -175.3401258,-21.0929306 -175.3401373,-21.0929273 -175.3401493,-21.0929272 -175.3401609,-21.0929303 -175.340171,-21.0929364 -175.3401788,-21.092945 -175.3402414,-21.0929849 -175.3403109,-21.0930132 -175.3403646,-21.0930276 -175.3404548,-21.0930454 -175.340547,-21.0930432 -175.3406931,-21.093 -175.3408527,-21.0929425 -175.3410043,-21.0928962 -175.3410921,-21.092873 -175.3411585,-21.0928568 -175.3412179,-21.092824 -175.3412745,-21.0927873 -175.3413382,-21.0927498 -175.3414066,-21.0927204 -175.3416359,-21.0926297 -175.3418177,-21.092554</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545630186</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3401259,-21.0941112 -175.3398182,-21.0941388</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545630187</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">ground</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3409321,-21.0941217 -175.3412148,-21.0948244 -175.3412611,-21.0949645 -175.3412973,-21.0950652 -175.3413805,-21.0953017 -175.3414582,-21.0954863 -175.3414965,-21.0955707 -175.3415067,-21.0955932 -175.3415093,-21.0956175 -175.341509,-21.0956294 -175.3415044,-21.0956406 -175.341496,-21.0956497 -175.3414849,-21.0956556 -175.3414723,-21.0956577 -175.341296,-21.0957234 -175.3412823,-21.0957317 -175.3412723,-21.0957437 -175.341267,-21.0957582 -175.341267,-21.0957725 -175.3412719,-21.095786 -175.3412812,-21.0957974 -175.341294,-21.0958053 -175.3414308,-21.095953 -175.3414733,-21.0959767 -175.3415199,-21.0959924 -175.3418338,-21.095901</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545640852</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3408164,-21.097214 -175.3408431,-21.0972047 -175.3410428,-21.0971332 -175.3410831,-21.0971125 -175.3410965,-21.0970969 -175.3411039,-21.0970781</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545640855</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3407311,-21.096767 -175.3408507,-21.0967281 -175.3408936,-21.0968382</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545640856</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.340848,-21.0970628 -175.3408554,-21.0970834 -175.3408148,-21.0970976 -175.340779,-21.0971101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545640857</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3409433,-21.0970315 -175.340848,-21.0970628 -175.3408066,-21.0969635</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545640866</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3411357,-21.0964947 -175.340834,-21.0965773 -175.340728,-21.0966161 -175.3406937,-21.0966307 -175.3406663,-21.0966549 -175.3406475,-21.0966902 -175.3406421,-21.0967292</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545640869</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3394627,-21.097183 -175.3392743,-21.0971785</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545640876</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3394781,-21.0969118 -175.3395344,-21.0969489 -175.3395773,-21.096984 -175.339589,-21.0970192</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545640880</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.339755,-21.0963089 -175.3396689,-21.0962975 -175.3395436,-21.0962809</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545640890</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3396259,-21.0956034 -175.3395836,-21.0955965 -175.3395409,-21.0956005 -175.3395126,-21.0956091 -175.3394876,-21.0956242 -175.3394663,-21.0956457 -175.3394549,-21.0956566 -175.3394468,-21.0956699 -175.3394426,-21.0956846</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545640891</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3397068,-21.0950205 -175.339648,-21.0950189 -175.3395029,-21.095038</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545655321</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3410656,-21.0996711 -175.3408889,-21.0997203 -175.3407897,-21.0997203</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545655322</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3409535,-21.0993116 -175.3408876,-21.0993738 -175.3408796,-21.0994238</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545656303</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3402342,-21.1017091 -175.3402236,-21.1016591 -175.3401972,-21.1015937 -175.3401505,-21.1014932 -175.3401301,-21.1014411</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545656304</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3402342,-21.1017091 -175.3402588,-21.1017349 -175.3402934,-21.1018345 -175.3403339,-21.1019426 -175.3403717,-21.1020392</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545656305</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3405958,-21.1015997 -175.340658,-21.1016393 -175.3407072,-21.101644 -175.3407605,-21.1016338 -175.3408656,-21.1015953</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545656306</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3402011,-21.1007152 -175.3402264,-21.100695 -175.3402673,-21.1006813 -175.3403704,-21.1006284 -175.3404255,-21.1005875 -175.3404377,-21.1005633 -175.340433,-21.1005338 -175.3404205,-21.1004942 -175.3403862,-21.1003855</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545656307</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3403855,-21.1010499 -175.340487,-21.1009968 -175.3405382,-21.1009706 -175.3405652,-21.1009568 -175.3405857,-21.1009531 -175.3406064,-21.1009545 -175.3406261,-21.1009609 -175.3406398,-21.1009698 -175.3406555,-21.1009751 -175.3406721,-21.1009764 -175.3406885,-21.1009736 -175.3408018,-21.1009284</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">545893128</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3406043,-21.099274 -175.34064,-21.0993875</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546093431</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3411271,-21.0991087 -175.3411663,-21.0990025 -175.3410805,-21.0988394 -175.3409745,-21.0985837</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546135489</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3403327,-21.0980599 -175.3402602,-21.0977774 -175.3402546,-21.0977591</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546135490</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.340901,-21.0990854 -175.3409368,-21.0991919</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546135676</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3404262,-21.0986359 -175.3405009,-21.0987169 -175.3405156,-21.0987482</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546137166</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3408132,-21.1026046 -175.3408041,-21.1026343 -175.3407964,-21.1026678 -175.3407935,-21.102705 -175.3407933,-21.1027125 -175.3407911,-21.1027923 -175.3407881,-21.1028624 -175.3407884,-21.1029534 -175.3407834,-21.1030491 -175.3407703,-21.1031043 -175.3407781,-21.1031322</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546194238</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3456963,-21.0896242 -175.345615,-21.0894327 -175.3455077,-21.0891824 -175.3454863,-21.0890949 -175.3454635,-21.0889472 -175.3454527,-21.0888721 -175.3454246,-21.0887833 -175.3453884,-21.0887245 -175.3453615,-21.0885706 -175.3453454,-21.0885093 -175.3453468,-21.0884392 -175.3453293,-21.0882903 -175.3453656,-21.0881989 -175.3454085,-21.0881564 -175.3454795,-21.0881176 -175.3455292,-21.088025 -175.3455251,-21.0879099 -175.345611,-21.0877497 -175.345788,-21.0876934 -175.3459717,-21.0876171 -175.3460804,-21.087577 -175.3461903,-21.0875245 -175.3462453,-21.087487 -175.3462626,-21.087429</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546194239</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3463747,-21.0893277 -175.3463875,-21.0892625 -175.3463821,-21.0892062 -175.3463714,-21.0891412 -175.3463271,-21.0890235 -175.3461783,-21.0888108 -175.3461541,-21.0887726 -175.3460817,-21.0886582 -175.3459704,-21.0884104 -175.3458698,-21.0882227 -175.3461273,-21.0881301 -175.3463164,-21.0880463 -175.3463674,-21.0880037 -175.3464022,-21.0879674 -175.346425,-21.0879237 -175.3464156,-21.0878586 -175.3463808,-21.0877447 -175.3463419,-21.0876471 -175.3462802,-21.0874694 -175.3462626,-21.087429 -175.3462279,-21.0873493 -175.3461421,-21.0871741 -175.3460549,-21.0870315</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546369340</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3459421,-21.0920296 -175.3461662,-21.0924007 -175.3466087,-21.0930639 -175.3466677,-21.0932265 -175.3467911,-21.0934517 -175.3470003,-21.0938546 -175.3471804,-21.0942459</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546369846</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3431218,-21.0904602 -175.343388,-21.0907888</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546369847</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3422373,-21.0909401 -175.3422385,-21.0911464 -175.3425544,-21.0917621</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546554306</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3471035,-21.0913793 -175.3471157,-21.0913215 -175.3471224,-21.0912777 -175.3471197,-21.0912345 -175.3471137,-21.0911951 -175.3471003,-21.0911657 -175.3469588,-21.0909261 -175.3469025,-21.0908366</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546556229</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.344091,-21.0929829 -175.3441143,-21.0929362 -175.3441063,-21.0928436 -175.3440861,-21.0927761 -175.344066,-21.0927135 -175.343948,-21.0924958 -175.343885,-21.0924157 -175.3438541,-21.0923632 -175.3437629,-21.0921404 -175.3436972,-21.0919603 -175.3436919,-21.0918376 -175.343712,-21.091705 -175.343775,-21.0916575 -175.3439346,-21.0916087 -175.3439604,-21.0916171 -175.3439824,-21.0916321 -175.343999,-21.0916524 -175.3440191,-21.0917037 -175.3440741,-21.0918326</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546556230</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3438765,-21.0930757 -175.3437214,-21.092706</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546559544</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3477192,-21.0917976 -175.3468629,-21.0922838</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546559545</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3478158,-21.0920184 -175.3469834,-21.092477</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546559546</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3472082,-21.0928399 -175.3469834,-21.092477 -175.3468629,-21.0922838 -175.3467657,-21.0921254 -175.3467033,-21.0920184 -175.3465181,-21.0917205</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546560799</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3467033,-21.0920184 -175.3475744,-21.0915411</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546565668</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3425446,-21.1026381 -175.342444,-21.1026006 -175.3423634,-21.1025955 -175.3423152,-21.1025768 -175.3422669,-21.1025893 -175.3422482,-21.1025542 -175.342232,-21.1025343 -175.3421925,-21.1024257</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546572916</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.340864,-21.1026996 -175.3407933,-21.1027125</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546572917</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3409735,-21.1026798 -175.3408855,-21.1026961</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546572918</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.340864,-21.1026996 -175.3408646,-21.1027015 -175.3408655,-21.1027033 -175.3408668,-21.1027049 -175.3408685,-21.1027062 -175.3408703,-21.1027072 -175.3408724,-21.1027078 -175.3408745,-21.102708 -175.3408766,-21.1027079 -175.3408787,-21.1027074 -175.3408806,-21.1027065 -175.3408823,-21.1027052 -175.3408837,-21.1027037 -175.3408847,-21.102702 -175.3408854,-21.1027001 -175.3408856,-21.1026981 -175.3408855,-21.1026961 -175.3408849,-21.1026942 -175.3408839,-21.1026924 -175.3408826,-21.1026908 -175.340881,-21.1026895 -175.3408791,-21.1026886 -175.3408771,-21.1026879 -175.340875,-21.1026877 -175.3408729,-21.1026878 -175.3408708,-21.1026884 -175.3408689,-21.1026893 -175.3408672,-21.1026905 -175.3408658,-21.102692 -175.3408648,-21.1026937 -175.3408641,-21.1026956 -175.3408638,-21.1026976 -175.340864,-21.1026996</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546572919</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3408041,-21.1026343 -175.340845,-21.102629 -175.3409168,-21.1026078 -175.3409319,-21.1026096 -175.3409419,-21.1026136 -175.3409505,-21.1026199 -175.3409574,-21.1026286 -175.3409637,-21.1026378 -175.3409735,-21.1026798 -175.3409855,-21.1027313</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546572927</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3409485,-21.1030208 -175.3409644,-21.1030685 -175.3409885,-21.103106 -175.3409982,-21.1031461</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546572929</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3408499,-21.1030777 -175.3408527,-21.1031528 -175.3408698,-21.1032399</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546572930</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3408206,-21.1031038 -175.3408031,-21.1031636 -175.3408226,-21.1032668</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546572951</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3401598,-21.1033591 -175.3401683,-21.1034085 -175.3401701,-21.1034179</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546572980</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3417654,-21.1025242 -175.34176,-21.1024973 -175.3417494,-21.1024809 -175.3417164,-21.1024298</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546572984</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.34058,-21.1032213 -175.3405879,-21.1032849 -175.3405999,-21.1033544</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546572990</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3397154,-21.1038961 -175.3396015,-21.1039162</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546572992</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.339802,-21.1036259 -175.3397772,-21.1036472 -175.3397725,-21.1036647 -175.3397906,-21.1038142 -175.3397852,-21.1038517 -175.3397577,-21.1038767 -175.3397154,-21.1038961</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546573006</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.340258,-21.1038742 -175.340144,-21.1038911 -175.3399964,-21.1039093 -175.339857,-21.1039212 -175.3397842,-21.1039318 -175.3397214,-21.103941</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546573033</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3401802,-21.1047619 -175.3400508,-21.1047876 -175.3399475,-21.104817 -175.339904,-21.1048292 -175.3398804,-21.1048357 -175.3398188,-21.1048445 -175.3397425,-21.1048456 -175.3396853,-21.1048464</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546573034</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3397978,-21.1045646 -175.3397571,-21.1045192 -175.3397436,-21.1044911 -175.3397363,-21.1044604 -175.3397416,-21.104431 -175.3397537,-21.1043866 -175.339768,-21.104306</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546573035</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3397564,-21.1042342 -175.339684,-21.1042583 -175.3396337,-21.1042615 -175.3395995,-21.1042546 -175.3395639,-21.1042471 -175.3395351,-21.1042346 -175.3395116,-21.1042246 -175.3394828,-21.1042045 -175.3394533,-21.1041958 -175.3394258,-21.1041927 -175.3393581,-21.104202</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546577201</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3398694,-21.103 -175.3396759,-21.1030428 -175.3395877,-21.1030623 -175.3395344,-21.1030798 -175.3394627,-21.1030935</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546577205</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3398114,-21.1033534 -175.3396442,-21.1033853</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546577206</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3401078,-21.1033695 -175.340093,-21.1033369 -175.3400885,-21.1033241 -175.3400779,-21.1032937 -175.3400675,-21.1032836 -175.3400547,-21.1032763 -175.3400427,-21.1032725 -175.3400301,-21.1032721 -175.3400179,-21.1032752 -175.3399381,-21.103295</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546577211</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3395548,-21.1028728 -175.3395037,-21.1028841 -175.3394288,-21.1028996</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546577212</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3393993,-21.1029603 -175.3394798,-21.102918 -175.3394937,-21.1029128 -175.3395076,-21.1029074 -175.3395592,-21.102898</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546577214</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3395073,-21.1032897 -175.3395479,-21.1032888 -175.3396268,-21.103287</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546913617</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3458698,-21.0882227 -175.3457794,-21.0882171 -175.3457416,-21.0881655 -175.345737,-21.0880904 -175.3457474,-21.0880324 -175.3457008,-21.0879835 -175.3455902,-21.0879998 -175.3455292,-21.088025</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">546913618</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3466968,-21.0885613 -175.3463499,-21.0887222 -175.346248,-21.0887738 -175.3461541,-21.0887726</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547204503</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3437616,-21.0876696 -175.3433391,-21.0879387 -175.3433073,-21.0879702 -175.3432862,-21.0880087 -175.3432785,-21.0880486 -175.3432569,-21.0880838 -175.3432238,-21.0881101 -175.3430402,-21.0883093 -175.3428403,-21.0884942 -175.3426538,-21.0886306 -175.3425264,-21.088712 -175.3424943,-21.0887833</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547204504</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3434022,-21.0870477 -175.343598,-21.0874056 -175.3436085,-21.0874298 -175.3436261,-21.0874502 -175.3436492,-21.0874649 -175.3436759,-21.0874728 -175.3437039,-21.0874732 -175.343772,-21.0874668 -175.3437978,-21.0874644 -175.3440245,-21.0874056 -175.3443396,-21.087323 -175.3445475,-21.0872842</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547204509</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.343772,-21.0874668 -175.3437616,-21.0876696 -175.3438327,-21.087786 -175.3439896,-21.0879186 -175.3440115,-21.0879158 -175.3440335,-21.0879189 -175.3440536,-21.0879276 -175.3440702,-21.0879412 -175.3440821,-21.0879587 -175.3441519,-21.0881326 -175.344286,-21.0886006 -175.3443128,-21.088722 -175.3442739,-21.0888196 -175.3442779,-21.0889309 -175.3442363,-21.0890811 -175.3442786,-21.0891981 -175.3443218,-21.089285 -175.3443798,-21.089484 -175.3444684,-21.089814 -175.3444757,-21.0898625</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547205512</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3385025,-21.0991454 -175.3385111,-21.0991956 -175.3385165,-21.0992349 -175.3385194,-21.0992441 -175.3385253,-21.0992521 -175.3385335,-21.099258 -175.3385432,-21.0992612 -175.3385536,-21.0992614 -175.3385635,-21.0992587 -175.3385944,-21.09925</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547205515</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3388811,-21.0990533 -175.3388692,-21.0990638 -175.3388607,-21.0990768 -175.3388562,-21.0990914 -175.3388558,-21.0991066 -175.3388793,-21.0993369 -175.3388662,-21.0993817 -175.3388371,-21.0994229 -175.3387982,-21.0994563</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547205518</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3387875,-21.1002167 -175.3387854,-21.1001902 -175.3387755,-21.1001312 -175.3387579,-21.1000738 -175.3387599,-21.1000094 -175.3387727,-21.0999462</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547205520</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3384723,-21.1000594 -175.3384978,-21.1001726 -175.3385067,-21.1001973 -175.338523,-21.1002184 -175.3385454,-21.100234</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547206118</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3380579,-21.0997604 -175.3380713,-21.099853 -175.3380694,-21.099876 -175.33806,-21.0998975 -175.338044,-21.0999152 -175.3380229,-21.0999274 -175.3379989,-21.099933 -175.3377247,-21.1000064</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547207184</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3393205,-21.1006938 -175.3392743,-21.1006925 -175.3390007,-21.1006694</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547207550</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3392926,-21.1012682 -175.3392424,-21.1012501 -175.3392155,-21.1012396 -175.3391934,-21.101222 -175.339178,-21.1011989 -175.3391709,-21.1011726 -175.3391727,-21.1011455 -175.3391833,-21.1011201 -175.3392016,-21.101099 -175.339226,-21.1010841 -175.3393043,-21.1010574</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547208159</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.339338,-21.1016779 -175.339293,-21.101686 -175.3391604,-21.1017097</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547208762</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.337907,-21.1014451 -175.3379933,-21.1014279 -175.3380193,-21.1014227</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547208763</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3381826,-21.101178 -175.3382396,-21.1013475 -175.338254,-21.1013903 -175.3382577,-21.1014147 -175.338254,-21.101439 -175.3382432,-21.1014614 -175.3382278,-21.1014788 -175.3382083,-21.1014922 -175.338186,-21.1015008 -175.3380421,-21.1015395 -175.338018,-21.1015436 -175.3379868,-21.1015489 -175.3379615,-21.1015426 -175.3379398,-21.1015288 -175.3379242,-21.1015091 -175.3379164,-21.1014858 -175.337907,-21.1014451</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547213491</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3385139,-21.1018267 -175.3385374,-21.1019823 -175.3385438,-21.1020242</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547215596</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3374854,-21.1009116 -175.337508,-21.1010504</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547215608</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3379566,-21.1020313 -175.3380109,-21.1020338 -175.3380445,-21.1020313 -175.338082,-21.1020382 -175.3380995,-21.1020507 -175.3381486,-21.102084</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547215613</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3386618,-21.1020059 -175.3386647,-21.1020701 -175.3386828,-21.1022064</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547215616</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3389457,-21.1019618 -175.3389432,-21.1019984 -175.3389438,-21.1020251 -175.338947,-21.1020516 -175.3389655,-21.1021054 -175.3389816,-21.1021698</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547266087</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3407414,-21.1006944 -175.3404994,-21.1007945 -175.34032,-21.1008994</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547266112</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3414804,-21.1003534 -175.3414294,-21.1003661 -175.3413912,-21.1003869 -175.3413531,-21.1004078 -175.341296,-21.1004252 -175.34126,-21.1004316 -175.3412497,-21.1004335 -175.3411848,-21.1004338 -175.3411203,-21.1004279 -175.3410651,-21.1004228 -175.3410419,-21.1004219 -175.3410197,-21.1004284 -175.3410012,-21.1004416 -175.3409581,-21.1004725</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547266113</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3411701,-21.1000088 -175.3411398,-21.1000241 -175.3411075,-21.1000494 -175.3410917,-21.1000903 -175.3411084,-21.100177</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547266120</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3403627,-21.1009976 -175.3403183,-21.1010249 -175.3402653,-21.1010497 -175.3401607,-21.1010691</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547266132</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.339488,-21.1004668 -175.3395445,-21.1005267</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547266133</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3395452,-21.1004707 -175.3395164,-21.1004714 -175.339488,-21.1004668</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547266134</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3395445,-21.1005267 -175.3395592,-21.1005408 -175.3395786,-21.1005485 -175.3395997,-21.1005488 -175.3396193,-21.1005414 -175.3396343,-21.1005277 -175.3396426,-21.1005096 -175.3396429,-21.1004899 -175.339635,-21.1004717 -175.3396203,-21.1004576 -175.3396009,-21.1004499 -175.3395798,-21.1004497 -175.3395602,-21.100457 -175.3395452,-21.1004707 -175.3395369,-21.1004888 -175.3395366,-21.1005085 -175.3395445,-21.1005267</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547266135</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3393387,-21.1004127 -175.3394137,-21.1004104 -175.339432,-21.1004158 -175.3394482,-21.1004254 -175.3394613,-21.1004385 -175.339488,-21.1004668</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547266136</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3393576,-21.10004 -175.339238,-21.1000356 -175.3391697,-21.1000331 -175.3391576,-21.1000275 -175.3391473,-21.1000191 -175.3391398,-21.1000086 -175.3391355,-21.0999965 -175.3391395,-21.0998849 -175.3391444,-21.0998754 -175.3391521,-21.0998677 -175.3391619,-21.0998626 -175.339173,-21.0998605 -175.3392749,-21.0998392 -175.3393058,-21.0998352 -175.3393612,-21.0998348</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547266137</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3397001,-21.0999418 -175.3396417,-21.0999431 -175.3396323,-21.0999458 -175.3396243,-21.0999512 -175.3396185,-21.0999587 -175.3396156,-21.0999675 -175.3396029,-21.0999806 -175.3395872,-21.0999904 -175.3395573,-21.1 -175.3395271,-21.1000081 -175.3394796,-21.1000222 -175.3394301,-21.1000275 -175.3393578,-21.1000243</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547302258</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3415671,-21.1013045 -175.3418586,-21.1012155</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547302949</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3417448,-21.1019127 -175.3416874,-21.1019202 -175.3415689,-21.1019356</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547468854</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3468894,-21.1043535 -175.3469312,-21.104462 -175.3469691,-21.1045832 -175.3469785,-21.1046322 -175.3468933,-21.1046675 -175.3467367,-21.104702 -175.346593,-21.1047342 -175.3464863,-21.1047647 -175.3463606,-21.1048016 -175.3462479,-21.1048209 -175.3461481,-21.1048466 -175.3460964,-21.1048618</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547499628</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3375048,-21.1040555 -175.3374702,-21.1040492 -175.3374393,-21.1040336 -175.3374212,-21.104018 -175.3374079,-21.1039986 -175.3373967,-21.1039634 -175.3373914,-21.103902 -175.3373934,-21.1038405 -175.3373914,-21.1037989 -175.337375,-21.1037619 -175.3373685,-21.1037222 -175.3373683,-21.1036679 -175.3373826,-21.1036152 -175.3375047,-21.1035289</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547499629</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3375761,-21.104035 -175.337566,-21.1040542 -175.337562,-21.1040752 -175.3375644,-21.1040965 -175.3375731,-21.1041163 -175.3375945,-21.1041751 -175.3375986,-21.1042171 -175.3375945,-21.104259</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547499630</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3387224,-21.1039762 -175.3386352,-21.1037429</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547499631</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3386687,-21.102757 -175.3386207,-21.1027336 -175.3385731,-21.1027234 -175.3385237,-21.1027175 -175.338474,-21.1027197 -175.3384351,-21.1027232 -175.3384123,-21.1027217 -175.338391,-21.1027143 -175.3383727,-21.1027016 -175.3383561,-21.1026874 -175.3383368,-21.1026766 -175.3383164,-21.1026655 -175.3382946,-21.1026569 -175.3382634,-21.1026527</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547499651</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3382529,-21.1026056 -175.3381833,-21.1026788 -175.3381392,-21.1027117 -175.338088,-21.1027324 -175.3380337,-21.1027444 -175.3377789,-21.1028051</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547502266</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3470658,-21.0992773 -175.3472282,-21.0992792 -175.3473509,-21.0992419 -175.3475018,-21.0992309 -175.3477246,-21.0991804 -175.3479333,-21.099132</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547502267</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3480688,-21.0994267 -175.3480075,-21.0993068 -175.3479333,-21.099132 -175.3478944,-21.0989219 -175.3477776,-21.09856 -175.3474499,-21.0986557</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547502579</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3473062,-21.0973558 -175.3474126,-21.0975814 -175.3475122,-21.0978022 -175.3476033,-21.0980063 -175.3476756,-21.0981691 -175.3476994,-21.0982135 -175.3477522,-21.098339 -175.3478007,-21.098447 -175.3477776,-21.09856</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">547505987</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3434832,-21.0931964 -175.3435349,-21.0933279 -175.3436932,-21.0936144 -175.3437522,-21.093747 -175.3438092,-21.0938628</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">548198296</SimpleData>
+		<SimpleData name="highway">path</SimpleData>
+		<SimpleData name="surface">ground</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3489754,-21.1021176 -175.3488386,-21.1020891 -175.3486771,-21.1020321 -175.3484865,-21.1019493 -175.3484414,-21.1019167 -175.348389,-21.1018991 -175.3483613,-21.1017701 -175.3483647,-21.1017207 -175.3484519,-21.1017585 -175.3488729,-21.1019574 -175.3489193,-21.1019258 -175.348931,-21.101913</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">548366804</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.343997,-21.1021556 -175.3439429,-21.1017695 -175.3438996,-21.1014913 -175.3438695,-21.1012181 -175.3437828,-21.1010266 -175.3437279,-21.1008747 -175.3437005,-21.1007732 -175.3436527,-21.1006089 -175.3435634,-21.1004248</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">548371742</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3417737,-21.0988206 -175.3418131,-21.098938 -175.3419069,-21.0993771 -175.3419706,-21.099728 -175.3423148,-21.0996776 -175.3425236,-21.099633 -175.3427306,-21.0996207 -175.3429642,-21.0995819 -175.3429758,-21.0995436 -175.3429819,-21.0995233 -175.3429049,-21.0991658</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">548566330</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3456338,-21.104436 -175.3456445,-21.1043872 -175.3456378,-21.1042934 -175.3455989,-21.1042271 -175.3455681,-21.1042146 -175.344573,-21.1044823 -175.3442162,-21.1045949 -175.3442645,-21.1047713 -175.3441827,-21.1048401 -175.3440084,-21.1048952 -175.34382211373,-21.104952367215</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">548566331</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3426243,-21.1038742 -175.3423628,-21.1039556 -175.3421657,-21.1039931 -175.3420383,-21.1040707 -175.3419699,-21.1042596 -175.3420115,-21.1044498 -175.3420155,-21.1045461 -175.3420906,-21.1047738 -175.3421094,-21.1048814 -175.342116340012,-21.104952367215</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">548569884</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3451416,-21.0979411 -175.3451926,-21.09804 -175.3453079,-21.0983528 -175.3454943,-21.0987907 -175.3455207,-21.0988542 -175.3456445,-21.0991523 -175.3456848,-21.0992493 -175.3455681,-21.0993125 -175.3454179,-21.0994426 -175.3453967,-21.0995308 -175.3453582,-21.0995784 -175.3452728,-21.0996241 -175.3452354,-21.099659 -175.3451972,-21.099706 -175.3449203,-21.0996803 -175.3444992,-21.0998217</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">548687983</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3435609,-21.0956549 -175.3432184,-21.0957772 -175.3428483,-21.0959093 -175.3426994,-21.0959617 -175.342458,-21.096081</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">548687984</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3425704,-21.0962983 -175.3428,-21.0962095 -175.3431889,-21.0960618 -175.3436116,-21.095897</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">548687985</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3436418,-21.0960956 -175.3435886,-21.0961012 -175.3432962,-21.0962113 -175.3429817,-21.0963402 -175.3427324,-21.0964462</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">548688131</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3433637,-21.0950023 -175.342568,-21.0953424 -175.3422213,-21.0954543</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">548688132</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3422741,-21.0955973 -175.3428403,-21.0954024 -175.3434333,-21.0951979</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">548688133</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3435025,-21.0954197 -175.3434473,-21.0954249 -175.3433968,-21.0954462 -175.3433123,-21.0954913 -175.3432761,-21.0955088 -175.3432215,-21.0955183 -175.3431688,-21.0955351 -175.3423677,-21.0958543</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">549372289</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3438117,-21.0962313 -175.3438246,-21.0963008</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Hala Hihifo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">549684642</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="surface">paved</SimpleData>
+		<SimpleData name="z_index">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3397955,-21.0944041 -175.3398196,-21.0941889 -175.3398182,-21.0941388 -175.3398142,-21.0939937 -175.3397767,-21.0935458 -175.3397677,-21.093418 -175.3397486,-21.0931455 -175.3397224,-21.0927731 -175.3397204,-21.092745 -175.3397117,-21.0926344 -175.3396989,-21.0924722 -175.3396804,-21.0922966 -175.3396562,-21.0920672 -175.3396399,-21.0919701 -175.3395988,-21.0917432 -175.3395867,-21.0916675 -175.3395485,-21.0914274 -175.3394267,-21.0907642 -175.3392926,-21.0900661 -175.3392221,-21.0896702 -175.3391854,-21.0894643 -175.3391765,-21.0894082 -175.339147,-21.0892389 -175.3391047,-21.088983 -175.339067,-21.0887716 -175.3389929,-21.0883955 -175.3389768,-21.088284 -175.3388901,-21.0878629 -175.3388686,-21.0877429 -175.3388265,-21.0875083 -175.338729771291,-21.0869691676046</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">549684643</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="surface">dirt</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3397955,-21.0944041 -175.340589,-21.0942247 -175.3409321,-21.0941217 -175.341184,-21.0940461 -175.3416293,-21.0938795 -175.3434832,-21.0931964 -175.3438765,-21.0930757 -175.344091,-21.0929829 -175.3442605,-21.0929245 -175.3448,-21.0926148 -175.3450959,-21.0924389 -175.3452043,-21.0923774 -175.3459421,-21.0920296 -175.3460294,-21.0919862 -175.3462669,-21.0918669 -175.3465181,-21.0917205 -175.3471035,-21.0913793 -175.3477879,-21.0909818 -175.3479624,-21.0908833 -175.3480125,-21.090855 -175.3488334,-21.0903917 -175.34909775807,-21.0902425259491</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">549930693</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3429049,-21.0991658 -175.3427928,-21.0984783 -175.3431564,-21.0984211</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">549930697</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">ground</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.343384,-21.0992752 -175.3436276,-21.0993029 -175.3436836,-21.0993029 -175.3439428,-21.0992549 -175.3440432,-21.0992027 -175.344279,-21.0991591 -175.3445476,-21.099109</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">549930699</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3434244,-21.0994267 -175.3434677,-21.0995479 -175.3435798,-21.0998615</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">549930700</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">ground</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3434677,-21.0995479 -175.3430447,-21.0998065 -175.3429758,-21.0995436</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">549932543</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3445476,-21.099109 -175.3447344,-21.0990635 -175.3448538,-21.0990322 -175.345071,-21.0989934 -175.3451209,-21.0989786 -175.3453285,-21.0989171 -175.3455207,-21.0988542</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">549932544</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3456848,-21.0992493 -175.3457223,-21.0992827 -175.3457631,-21.0992633 -175.345958,-21.0990772</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">549948911</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3445488,-21.1041007 -175.3442243,-21.1041933</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">549949428</SimpleData>
+		<SimpleData name="highway">track</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3459251,-21.0976464 -175.345843,-21.0973218 -175.3457277,-21.097039 -175.3459275,-21.0969827</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">550186070</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.339589,-21.0970192 -175.3395948,-21.0970365 -175.3395948,-21.0970884 -175.3395889,-21.0970986</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">550186071</SimpleData>
+		<SimpleData name="highway">service</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3395889,-21.0970986 -175.3395633,-21.0971435 -175.3395158,-21.0971924 -175.3394599,-21.0972328</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">550412674</SimpleData>
+		<SimpleData name="highway">path</SimpleData>
+		<SimpleData name="surface">grass</SimpleData>
+		<SimpleData name="z_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-175.3461677,-21.0959547 -175.3461327,-21.0959711 -175.3460891,-21.0959917 -175.3460502,-21.0960105 -175.3460059,-21.0960255 -175.3459758,-21.0960337 -175.345953,-21.0960456 -175.3459302,-21.0960599 -175.3459,-21.096075 -175.3458651,-21.0960762 -175.3458316,-21.0960756 -175.3458088,-21.0960762 -175.3457796,-21.0960768 -175.3457277,-21.0960603 -175.3456831,-21.0960562 -175.3456586,-21.0960527 -175.3456267,-21.0960556 -175.3455831,-21.0960518</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

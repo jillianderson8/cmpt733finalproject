@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+*.tif
+images/tiles
+A5-Copy1.ipynb
+data_loading_tutorial.ipynb
+faces
+LiteratureReview
+images/tiles
+
+Code/3_tileAnnotate/output/*.txt
+Code/3_tileAnnotate/output/*.jpg
+Resources/Literature/*

@@ -1,0 +1,85 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+div#header {
+	background-color:#cd2323;
+	height:144px;
+}
+div#none {
+	display: none;
+}
+div#caveat {
+	margin: 4px;
+	padding: 2px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #cccccc;
+	background-color: #eeeeee;
+	font-size:0.7em;
+}
+div#title {
+	color:#ffffff;
+	position: absolute;
+	left: 8px;
+	top: 48px;
+	float: left;
+	font-family: 'Helvetica Neue', 'Liberation Sans';
+	font-weight: bold;
+	font-size: 32px;
+}
+div#names {
+	color:#ffffff;
+	position: absolute;
+	left: 8px;
+	top: 96px;
+	font-family: 'Garamond';
+	font-size: 12px;
+}
+div#prompt {
+	margin:20px;
+}
+img#sfu {
+	position:absolute;
+	right:0px;
+	top:40px;
+	height:56px;
+}
+div.section div.heading {
+	font-weight:bold;
+	border-bottom-width:4px;
+	border-bottom-color:#4d4d4d;
+	border-bottom-style:solid;
+	color:#4d4d4d;
+	margin-bottom:8px;
+}
+div.section {
+	padding-top:12px;
+	margin-left:6px;
+	margin-right:6px;
+}
+div#controls {
+	width:360px;
+	position:absolute;
+	left:0;
+	top:144px;
+	bottom:0;
+	overflow:auto;
+}
+div#container {
+	overflow:auto;
+	top:144px;
+	bottom:0;
+	left:360px;
+	right:0;
+	position:absolute;
+}
+a.download {
+	font-size:0.8em;
+	display:block;
+	float:right;
+}
+span#selectedconfidence {
+	vertical-align:top;
+}

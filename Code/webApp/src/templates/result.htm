@@ -1,0 +1,52 @@
+{% extends "layout.htm" %}
+{% block head %}
+	<script src='/script/jquery-3.3.1.min.js'></script>
+	<script src='/script/dragscroll-master/dragscroll.js'></script>
+	<script src='/script/result.js'></script>
+{% endblock %}
+{% block body %}
+		<input type='hidden' id='ident' value='{{ ident }}' /><br />
+		<div id='controls'>
+			<div class='section'>
+				<div class='heading'>About</div>
+				<div>Choose an image containing aerial imagery and submit to detect banana and coconut trees.</div>
+				<div>Then, use the slider to select the confidence level of prediction to display.</div>
+				<div id='caveat'>Note: This interface is intended as a demonstration. The hardware used can only handle small images. Please allow several minutes for predictions to be made. Sample results are available for viewing without delay:
+					<ul>
+						<li><a href='/sample/s1'>Sample #1</a>
+					</ul>
+				</div>
+			</div>
+			<div class='section'>
+				<div class='heading'>Image Selection</div>
+				<form method='post' action='/count' enctype='multipart/form-data'>
+					<input type='file' name='image' /><br />
+					<input type='submit' value='Submit' />
+				</form>
+			</div>
+{% if kind %}
+			<div class='section'>
+				<div class='heading'>Predictions</div>
+				Showing predictions with at least:<br />
+				<div>
+					<input type='range' id='confidence' min='10' step='10' max='90' value='50' oninput='showBelowConfidence($("#confidence").val(), $("#selectedconfidence"), $("#counts"))'; />
+					<span id='selectedconfidence'></span>
+				</div>
+				<span id='counts'></span><br />
+				<a class='download' href='/{{ kind }}/{{ ident }}/predictions' target='predictions'>download all predictions</a>
+			</div>
+{% endif %}
+		</div>
+{% if kind %}
+		<div id='container' class='dragscroll'>
+			<img id='image' src='/{{ kind }}/{{ ident }}/image' />
+		</div>
+{% endif %}
+<script>
+	var container = document.getElementById("container");
+	if (container) {
+		counts = showPredictions(container, "/{{ kind }}/{{ ident }}/predictions", $("#confidence").val());
+		showCounts($("#confidence").val(), counts, $("#selectedconfidence"), $("#counts"));
+	}
+</script>
+{% endblock %}

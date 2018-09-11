@@ -1,0 +1,7 @@
+classes = 2
+train = bc_train.txt
+train_dir = /home/bgerspac/sfuhome/cmpt733finalproject/tiles_596_593_bc/
+valid = bc_test.txt
+valid_dir = /home/bgerspac/sfuhome/cmpt733finalproject/tiles_596_593_bc/
+names = bc.names
+backup = bc_pretrained_weights/

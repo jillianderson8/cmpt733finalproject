@@ -1,0 +1,7 @@
+{% extends "layout.htm" %}
+{% block body %}
+	{{ super() }}
+	<div style='font-size:1.25em;'>An error occurred while processing your request</div>
+	<div>{{ text }}</div>
+	<div><a href="/">Home</a>
+{% endblock %}

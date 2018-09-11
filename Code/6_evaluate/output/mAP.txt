@@ -1,0 +1,24 @@
+{"time": "2018-03-29-23:03:01", "model": "22froze30000", "iouThresh": 0.5, "banana treeAP": 0.00023019253577348175, "coconut treeAP": 0.0011413988630151715, "mAP": 0.0006857956993943266}
+{"time": "2018-03-29-23:03:44", "model": "13froze30000", "iouThresh": 0.5, "banana treeAP": 0.2599237839688532, "coconut treeAP": 0.6752537725553582, "mAP": 0.4675887782621057}
+{"time": "2018-03-29-23:04:00", "model": "basic30000", "iouThresh": 0.5, "banana treeAP": 0.3448189224163954, "coconut treeAP": 0.7047869922129548, "mAP": 0.5248029573146751}
+{"time": "2018-03-29-23:05:33", "model": "noaugment30000", "iouThresh": 0.5, "banana treeAP": 0.4105952633603984, "coconut treeAP": 0.7238099123165336, "mAP": 0.567202587838466}
+{"time": "2018-04-02-20:47:38", "model": "anchors30000", "iouThresh": 0.5, "coconut treeAP": 0.0, "banana treeAP": 0.00017165178238325585, "mAP": 8.582589119162793e-05}
+{"time": "2018-04-06-18:32:40", "model": "allclasses130000", "iouThresh": 0.5, "mango treeAP": 0.0, "papaya treeAP": 0.0, "settlementAP": NaN, "power poleAP": 0.0, "otherAP": 0.0007394452626411389, "banana treeAP": 0.0016452576487799503, "coconut treeAP": 0.6562485360995234, "mAP": NaN}
+{"time": "2018-04-06-23:00:06", "model": "allclasses120000", "iouThresh": 0.5, "coconut treeAP": 0.38454245400733245, "mango treeAP": 0.0, "otherAP": 0.0009682885499878965, "papaya treeAP": NaN, "power poleAP": 0.0, "settlementAP": NaN, "banana treeAP": 0.00031809399807325293, "mAP": NaN}
+{"time": "2018-04-13-03:54:00", "model": "lbl22", "iouThresh": 0.5, "banana treeAP": 0.00020994521189120088, "coconut treeAP": 0.0007932102420851552, "mAP": 0.000501577726988178}
+{"time": "2018-04-13-03:56:16", "model": "lbl20", "iouThresh": 0.5, "banana treeAP": 0.01144407206616025, "coconut treeAP": 0.36633974333383135, "mAP": 0.1888919076999958}
+{"time": "2018-04-13-03:57:16", "model": "lbl19", "iouThresh": 0.5, "banana treeAP": 0.05168919876300316, "coconut treeAP": 0.5403165346165297, "mAP": 0.29600286668976644}
+{"time": "2018-04-13-03:57:44", "model": "lbl18", "iouThresh": 0.5, "banana treeAP": 0.05984755448779286, "coconut treeAP": 0.6203103699409436, "mAP": 0.34007896221436823}
+{"time": "2018-04-13-03:58:10", "model": "lbl17", "iouThresh": 0.5, "banana treeAP": 0.11931757675717905, "coconut treeAP": 0.63611717664729, "mAP": 0.3777173767022345}
+{"time": "2018-04-13-03:58:38", "model": "lbl16", "iouThresh": 0.5, "banana treeAP": 0.035788896081702645, "coconut treeAP": 0.615549236632309, "mAP": 0.3256690663570058}
+{"time": "2018-04-13-03:59:12", "model": "lbl15", "iouThresh": 0.5, "banana treeAP": 0.0839812649520889, "coconut treeAP": 0.6185356123288239, "mAP": 0.3512584386404564}
+{"time": "2018-04-13-05:02:47", "model": "lbl14", "iouThresh": 0.5, "banana treeAP": 0.08149406097266104, "coconut treeAP": 0.6305685627063506, "mAP": 0.35603131183950587}
+{"time": "2018-04-13-16:40:44", "model": "balanced30000", "iouThresh": 0.5, "banana treeAP": 0.2825797202310075, "coconut treeAP": 0.6471942409726857, "mAP": 0.46488698060184663}
+{"time": "2018-04-08-06:09:10", "model": "allv3", "iouThresh": 0.5, "banana treeAP": 0.05485843196344811, "coconut treeAP": 0.5566428049573664, "mango treeAP": 3.916960438699569e-05, "otherAP": 0.0, "papaya treeAP": 0.0, "power poleAP": 0.0, "mAP": 0.10192340108753357}
+{"time": "2018-04-10-17:32:28", "model": "allv3-30000", "iouThresh": 0.5, "banana treeAP": 0.18901643440287474, "coconut treeAP": 0.6536175208059787, "mango treeAP": 0.0, "otherAP": 0.0, "papaya treeAP": 0.0, "power poleAP": 0.0030303030303030307, "settlementAP": NaN, "mAP": NaN}
+{"time": "2018-04-10-17:43:16", "model": "allv3-40000", "iouThresh": 0.5, "banana treeAP": 0.24456540039384064, "coconut treeAP": 0.5968107064067794, "mango treeAP": 0.0, "otherAP": 0.0001724137931034483, "papaya treeAP": 0.0, "power poleAP": 0.007692307692307693, "settlementAP": NaN, "mAP": NaN}
+{"time": "2018-04-13-20:19:07", "model": "allv2-20000", "iouThresh": 0.5, "banana treeAP": 0.22000113603996807, "coconut treeAP": 0.7127478309383446, "mango treeAP": 0.00149812734082397, "otherAP": 0.03888888888888889, "papaya treeAP": 0.0, "power poleAP": 0.0, "mAP": 0.46637448348915633}
+{"time": "2018-04-17-00:11:18", "model": "bc", "iouThresh": 0.5, "coconut treeAP": 0.0, "banana treeAP": 0.0, "mAP": 0.0}
+{"time": "2018-04-17-00:23:59", "model": "basic30000", "iouThresh": 0.5, "banana treeAP": 0.3448189224163954, "coconut treeAP": 0.7047869922129548, "mAP": 0.5248029573146751}
+{"time": "2018-04-17-00:39:39", "model": "basic30000", "iouThresh": 0.5, "banana treeAP": 0.3448189224163954, "coconut treeAP": 0.7047869922129548, "mAP": 0.5248029573146751}
+{"time": "2018-04-17-06:20:14", "model": "basic30000", "iouThresh": 0.5, "coconut treeAP": 0.7047869922129548, "banana treeAP": 0.3448189224163954, "mAP": 0.5248029573146751}

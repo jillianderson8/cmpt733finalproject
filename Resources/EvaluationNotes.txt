@@ -1,0 +1,42 @@
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/evaluation_protocols.md
+
+-------------------------------------------------
+PASCAL VOC 2007 detection metric
+-------------------------------------------------
+http://host.robots.ox.ac.uk/pascal/VOC/voc2007/devkit_doc_07-Jun-2007.pdf
+Page 10
+
+Correct Detections: Overlap between prediction and ground truth must be more than 50%. i.e. area(pred and groundtruth)/(pred or groundtruth). Essentially, the intersection over the union. 
+
+False Detections: Multiple detections of the same object in an image. 
+
+Code is provided in the development kit. Use these correct detections and false detections to create a confusion matrix. Then this can be used to find the precision for an image. Overall performance is based on the average percision (AP). 
+
+
+-------------------------------------------------
+Weighted PASCAL VOC detection metric
+-------------------------------------------------
+The weighted PASCAL metric computes the mean average precision as the average precision when treating all classes as a single class. In comparison, PASCAL metrics computes the mean average precision as the mean of the per-class average precisions.
+
+For example, the test set consists of two classes, "cat" and "dog", and there are ten times more boxes of "cat" than those of "dog". According to PASCAL VOC 2007 metric, performance on each of the two classes would contribute equally towards the final mAP value, while for the Weighted PASCAL VOC metric the final mAP value will be influenced by frequency of each class.
+
+
+-------------------------------------------------
+Open Images detection metric {#open-images}
+-------------------------------------------------
+This metric is defined originally for evaluating detector performance on Open Images V2 dataset and is fairly similar to the PASCAL VOC 2007 metric mentioned above. It computes interpolated average precision (AP) for each class and averages it among all classes (mAP).
+
+
+-------------------------------------------------
+Mean Average Precision
+-------------------------------------------------
+I think this is the one we want to go with...
+Resources:
+	* https://arxiv.org/pdf/1607.03476.pdf
+	* http://cs231n.stanford.edu/reports/2015/pdfs/CS231n_final_writeup_sjtang.pdf
+
+So mAP is the integral over the precision-recall curve. To calculate the curve we need to find the confusion matrix (false positives, true positives, etc). 
+
+To do this, we use IoU. A successful detection is one where IoU is greater than 0.5. n detections of the same object are considered as one correct detection and n-1 incorrect detections. 
+
+

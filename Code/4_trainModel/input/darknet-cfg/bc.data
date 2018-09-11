@@ -1,0 +1,9 @@
+classes = 2
+train = ../input/darknet-cfg/bc_train.txt
+train_dir = ../../3_tileAnnotate/output/
+valid = ../input/darknet-cfg/bc_test.txt
+valid_dir = ../../3_tileAnnotate/output/
+names = ../input/darknet-cfg/bc.names
+backup = ../output/bc_weights
+results=../output/bc
+weight_frequency = 2000

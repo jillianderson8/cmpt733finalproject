@@ -1,0 +1,16 @@
+Mar 6, 2018
+-----------
+We identified that the location of trees in the shapefile and the actual image
+did not align. Locations seemed to differ consistently within small regions
+but not consistently over the entire image. So we examined the differences over
+the image. We found that points needed to be shifted: 
+	* Top Right ~> 30 pixels to the left, 70 down 
+	* Top Left ~> 30 pixels to the right, 60 down
+	* Bottom Left ~> 30 pixels to the right, 30 down
+	* Bottom Right ~> 30 px left, 30 px down
+	* Center ~> 40 px down
+
+From this we generated two transformation functions: 
+	* x_new = x + (60x/w - 30)
+	* y_new = y + (-30y/h + 60)
+

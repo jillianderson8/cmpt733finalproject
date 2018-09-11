@@ -1,0 +1,57 @@
+Title:
+
+
+Subtitle:
+
+Intro:
+Fruit trees such as coconuts and bananas are an important source 
+of food and livelihood for many communities in the South 
+Pacific. These same communities are often at high risk for natural 
+disasters such as hurricanes, tsunamis, and volcanic eruptions. 
+Currently, aid organizations collect and manually analyze aerial 
+imagery to assess damage to affected areas. The analysis, however, 
+is very time consuming, taking roughly 6 hrs to manually 
+analyze data which takes an hour to collect. 
+Our project seeks to develop a deep learning model to automatically identify and 
+count fruit trees such as coconuts, bananas, papayas, and mangos 
+present in aerial imagery. 
+
+
+We built our object detection model using the Darknet deep learning framework developed by Joseph Redmon and Ali Farhadi along with their YOLO neural net architecture. YOLO is a 
+
+Probably one more paragraph here talking about the exact 
+questions we are trying to answer (i.e. what we put on the 
+proposal). Also still need to say why this counting relates to the 
+more efficient deliverance of  aid and whatnot to affected areas.  
+Adjustments to the poster could mean we could add in a 
+Discussion session. For instance, the fact that the training data 
+doesn’t contain all annotations for the area, and that this will likely 
+be causing lower mAPs than is accurate. Condense Intro, move/
+delete References. Also, could add in a training error plot. 
+
+
+
+
+
+Data Science Pipeline:
+	Import:
+	Clean:
+	Tile&Annotate:
+	Model:
+	Evaulate:
+	Visualize/Finished Product:
+
+Figure 1 caption:
+
+Figure 2 caption:
+
+Results:
+
+Conclusion:
+
+Acknowledgements:
+
+References:
+
+Automated Feature Detection of Aerial Imagery from South Pacific
+

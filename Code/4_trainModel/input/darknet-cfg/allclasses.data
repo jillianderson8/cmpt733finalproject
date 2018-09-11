@@ -1,0 +1,7 @@
+classes = 7
+train = /home/brieh/sfuhome/workspace/733/FinalProject/cmpt733finalproject/Code/4_darknet/input/darknet-cfg/bc_train.txt
+train_dir = /home/brieh/sfuhome/workspace/733/FinalProject/cmpt733finalproject/Code/3_tileAnnotate/output/
+valid = /home/brieh/sfuhome/workspace/733/FinalProject/cmpt733finalproject/Code/4_darknet/input/darknet-cfg/bc_test.txt
+valid_dir = /home/brieh/sfuhome/workspace/733/FinalProject/cmpt733finalproject/Code/3_tileAnnotate/output/
+names = /home/brieh/sfuhome/workspace/733/FinalProject/cmpt733finalproject/Code/4_darknet/input/darknet-cfg/allclasses.names
+backup = bc_weights
